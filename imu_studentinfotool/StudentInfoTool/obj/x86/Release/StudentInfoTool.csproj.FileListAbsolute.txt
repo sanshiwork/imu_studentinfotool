@@ -1,0 +1,29 @@
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\bin\Release\checkdb.mdb
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\bin\Release\StudentInfoTool.exe.config
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\bin\Release\StudentInfoTool.exe.manifest
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\bin\Release\StudentInfoTool.application
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\bin\Release\StudentInfoTool.exe
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\bin\Release\StudentInfoTool.pdb
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\bin\Release\ComboBoxTree.dll
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\bin\Release\ComboBoxTree.pdb
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\bin\Release\ComboBoxTree.xml
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\obj\x86\Release\StudentInfoTool.AddForm.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\obj\x86\Release\StudentInfoTool.EditForm.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\obj\x86\Release\StudentInfoTool.HelpForm.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\obj\x86\Release\StudentInfoTool.MainForm.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\obj\x86\Release\StudentInfoTool.MsgForm.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\obj\x86\Release\StudentInfoTool.Properties.Resources.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\obj\x86\Release\StudentInfoTool.UpdateForm.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\obj\x86\Release\StudentInfoTool.exe.manifest
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\obj\x86\Release\StudentInfoTool.application
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\obj\x86\Release\StudentInfoTool.exe
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\obj\x86\Release\StudentInfoTool.pdb
+E:\胡新磊\全员人口流动系统\学生管理模块\StudentInfoTool-2015-09-19-21-47\StudentInfoTool\StudentInfoTool\bin\Release\StudentInfoTool.exe.config
+E:\胡新磊\全员人口流动系统\学生管理模块\StudentInfoTool-2015-09-19-21-47\StudentInfoTool\StudentInfoTool\obj\x86\Release\StudentInfoTool.exe
+E:\胡新磊\全员人口流动系统\学生管理模块\StudentInfoTool-2015-09-19-21-47\StudentInfoTool\StudentInfoTool\obj\x86\Release\StudentInfoTool.pdb
+E:\胡新磊\胡新磊私人\软著申请资料准备\imu_studentinfotool\StudentInfoTool\bin\Release\StudentInfoTool.exe.config
+E:\胡新磊\胡新磊私人\软著申请资料准备\imu_studentinfotool\StudentInfoTool\obj\x86\Release\StudentInfoTool.exe
+E:\胡新磊\胡新磊私人\软著申请资料准备\imu_studentinfotool\StudentInfoTool\obj\x86\Release\StudentInfoTool.pdb

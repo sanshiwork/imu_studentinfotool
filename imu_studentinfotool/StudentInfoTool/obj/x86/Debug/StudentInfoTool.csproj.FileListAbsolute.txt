@@ -1,0 +1,26 @@
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\bin\Debug\checkdb.mdb
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\bin\Debug\StudentInfoTool.exe.config
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\bin\Debug\StudentInfoTool.exe
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\bin\Debug\StudentInfoTool.pdb
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\bin\Debug\ComboBoxTree.dll
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\bin\Debug\ComboBoxTree.pdb
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\bin\Debug\ComboBoxTree.xml
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\obj\x86\Debug\StudentInfoTool.AddForm.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\obj\x86\Debug\StudentInfoTool.EditForm.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\obj\x86\Debug\StudentInfoTool.HelpForm.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\obj\x86\Debug\StudentInfoTool.MainForm.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\obj\x86\Debug\StudentInfoTool.Properties.Resources.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\obj\x86\Debug\StudentInfoTool.UpdateForm.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\obj\x86\Debug\StudentInfoTool.exe
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\obj\x86\Debug\StudentInfoTool.pdb
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\obj\x86\Debug\StudentInfoTool.MsgForm.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\bin\Debug\StudentInfoTool.exe.manifest
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\bin\Debug\StudentInfoTool.application
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\obj\x86\Debug\StudentInfoTool.exe.manifest
+C:\Users\hp\Documents\Visual Studio 2010\Projects\StudentInfoTool\StudentInfoTool\obj\x86\Debug\StudentInfoTool.application
+E:\胡新磊\全员人口流动系统\学生管理模块\StudentInfoTool-2015-09-19-21-47\StudentInfoTool\StudentInfoTool\bin\Debug\StudentInfoTool.exe.config
+E:\胡新磊\全员人口流动系统\学生管理模块\StudentInfoTool-2015-09-19-21-47\StudentInfoTool\StudentInfoTool\obj\x86\Debug\StudentInfoTool.exe
+E:\胡新磊\全员人口流动系统\学生管理模块\StudentInfoTool-2015-09-19-21-47\StudentInfoTool\StudentInfoTool\obj\x86\Debug\StudentInfoTool.pdb
